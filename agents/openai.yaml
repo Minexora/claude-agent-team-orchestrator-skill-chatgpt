@@ -1,0 +1,5 @@
+interface:
+  display_name: Claude Agent Team Orchestrator
+  short_description: Claude Code icinde repo onboarding, planlama, gorev dagitimi ve kalite kapilari ile cok ajanli takim orkestrasyonu
+  icon: "🧭"
+  brand_color: "#4F46E5"
