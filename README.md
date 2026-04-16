@@ -13,12 +13,6 @@ Claude Code içinde Team Lead odaklı çok ajanlı bir ekip düzeni kurmak için
 - Üç hata sonrası kullanıcıya seçenekli özet sunar
 - Mümkünse terminal panellerini rol bazlı adlandırılmış şekilde kurar
 
-## Claude Code'a nasıl dahil edilir?
-
-1. Bu skill klasörünü `skill.zip` olarak paketleyin.
-2. Skill'i GitHub reposuna yükleyin veya doğrudan saklayın.
-3. Claude Code içinde skill ekleme akışında bu paketi kullanın.
-4. Skill aktif olduktan sonra örnek istemlerden biriyle başlatın.
 
 ## Örnek promptlar
 
